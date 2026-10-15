@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Biblioteca/Biblioteca.csproj" />
+  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+</Solution>
